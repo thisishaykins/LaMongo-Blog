@@ -1,6 +1,6 @@
 # LaMongo Blog
 
-LaMongo Blog is basic CRUB Laravel and MongoDB Blog App to deploy a Laravel Application with MongoDB as Database
+LaMongo Blog is basic CRUD Laravel and MongoDB Blog App to deploy a Laravel Application with MongoDB as Database
 
 ## Setup App.
 - Clone or Pull the repo.
