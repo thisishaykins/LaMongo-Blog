@@ -18,13 +18,13 @@
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Title:</strong>
-                {{ $book->title }}
+                {{ $blog->title }}
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Details:</strong>
-                {{ $book->content }}
+                <article>{{ $blog->content }}</article>
             </div>
         </div>
     </div>

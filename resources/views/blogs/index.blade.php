@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2>Blogs</h2>
+                <h2>LaMongo Blogs</h2>
             </div>
             <div class="pull-right">
                 <a class="btn btn-success" href="{{ route('blog.create') }}"> Create New Blog</a>
