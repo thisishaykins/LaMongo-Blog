@@ -11,7 +11,6 @@ LaMongo Blog is basic CRUD Laravel and MongoDB Blog App to deploy a Laravel Appl
 - Start app with: <code>php artisan serve</code>. Confirm the mongodb parameters in the <code>.env</code> OR <code>.env.example</code> 
 - Start mongodb with: <code>mongo</code> or <code>mongod</code>.
 - Run the application with: <code>php artisan serve .</code>. In your browser, go to [http://localhost:8000/](http://localhost:8000/). and visit the [http://localhost:8000/blog](http://localhost:8000/blog)
-- 
 
 
 ## About Laravel
